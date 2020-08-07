@@ -1,5 +1,5 @@
 {
-  "name": "abdulraqib",
+  "name": "mern",
   "version": "1.0.0",
   "description": "MERN Stack full tutorial",
   "main": "server.js",
@@ -24,6 +24,15 @@
     "mongoose": "^5.9.22",
     "react-transition-group": "^4.4.1",
     "reactstrap": "^8.5.1",
+    "socket.io": "^2.3.0",
     "uuid": "^8.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulRaqibBakhtiar/MERN.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbdulRaqibBakhtiar/MERN/issues"
+  },
+  "homepage": "https://github.com/AbdulRaqibBakhtiar/MERN#readme"
 }
